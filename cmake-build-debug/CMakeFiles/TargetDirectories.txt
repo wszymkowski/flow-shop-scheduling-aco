@@ -1,3 +1,0 @@
-C:/Users/Wiktor Szymkowski/CLionProjects/ZMO/META/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Wiktor Szymkowski/CLionProjects/ZMO/META/cmake-build-debug/CMakeFiles/META.dir
-C:/Users/Wiktor Szymkowski/CLionProjects/ZMO/META/cmake-build-debug/CMakeFiles/rebuild_cache.dir
